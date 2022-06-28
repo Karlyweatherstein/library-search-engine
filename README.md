@@ -12,7 +12,7 @@
   I WANT to search for new books to read
   SO THAT I can keep a list of books to purchase
 
-![Mockup](/public/images/budget-tracker-mockup.jpg)
+![Mockup](/client/public/library-search-mockup.jpg)
 
 ## Questions
 
