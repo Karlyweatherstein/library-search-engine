@@ -1,7 +1,5 @@
 # Book Search Engine Starter Code
 
-# budget-tracker
-
 ## Description
 
 - Updated an application that uses RESTFUL API's into using GraphQL and apollo
